@@ -21,7 +21,7 @@ I love working with a variety of technologies to create powerful, scalable solut
 ## Let’s Connect! 🌐
 I’m always up for connecting with like-minded people. Feel free to reach out to me on:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/amrendra-vikram-singh-487ab9209/)
 - [Twitter](https://twitter.com/your-twitter)
 
 Looking forward to collaborating and sharing knowledge!
