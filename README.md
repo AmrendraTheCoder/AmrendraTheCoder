@@ -6,7 +6,7 @@ I’m a passionate developer with a strong belief in **self-reliance** and the p
 I’m always learning, exploring new technologies, and challenging myself to build things that matter. Here’s a bit about me:
 
 - 🚀 **Building my future**, one project at a time.
-- 💻 **Currently working on**: [Inventory Management System](#https://mark-v1.vercel.app/)
+- 💻 **Currently working on**: Personal Projects
 - 🌱 Always improving my skills and learning new tech.
 - 📫 Reach me at: [amrendravsinghh@gmail.com](mailto:amrendravsinghh@gmail.com)
 
