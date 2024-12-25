@@ -16,8 +16,8 @@ I love working with a variety of technologies to create powerful, scalable solut
 - **Languages**: JavaScript, Python, Java, C++
 - **Frontend**: React, HTML, CSS
 - **Backend**: Node.js, SQL, MongoDB
-- **Tools & Platforms**: Git, Docker, MongoDB
-
+- **Tools & Platforms**: Git, Docker
+  
 ## Let’s Connect! 🌐
 I’m always up for connecting with like-minded people. Feel free to reach out to me on:
 
