@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amrendra Vikram Singh
 
-**`@AmrendraTheCoder`** | Aspiring Developer from Uttar Pradesh, India
+**`@AmrendraTheCoder`** | Aspiring Developer from India
 
 ---
 
@@ -19,27 +19,6 @@ I'm on a journey to become a skilled coder, constantly learning and building pro
 
 ---
 
-## 📂 Featured Projects
-
-### 🔗 [Adaptive Yield Router](https://github.com/AmrendraTheCoder/projects)
-A Web3 project built with Solidity, Hardhat, React, and Chainlink for optimized yield routing. 
-
-### 🌐 [Portfolio Website](https://github.com/AmrendraTheCoder/portfolio_website)
-My personal portfolio showcasing my projects, skills, and journey as a developer.
-
-### ☁️ [AWS Bootcamp - Cruddur 2023](https://github.com/AmrendraTheCoder/aws-bootcamp-cruddur-2023)
-Hands-on AWS cloud project from a bootcamp experience.
-
-### 🎨 Background Changer App
-A simple React app to dynamically change background colors. 
-
----
-
-## 📊 GitHub Stats
-
-![AmrendraTheCoder's GitHub stats](https://github-readme-stats.vercel.app/api? username=AmrendraTheCoder&show_icons=true&theme=radical)
-
----
 
 ## 📫 Let's Connect
 
