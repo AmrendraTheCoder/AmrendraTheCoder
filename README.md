@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amrendra Vikram Singh
+# Hi, I'm Amrendra Vikram Singh
 
 **`@AmrendraTheCoder`** | Aspiring Developer from India
 
