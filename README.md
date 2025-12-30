@@ -4,13 +4,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm on a journey to become a skilled coder, constantly learning and building projects to sharpen my skills. I enjoy working with modern web technologies, blockchain, and cloud platforms.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages:** JavaScript, Solidity, HTML, CSS
 - **Frameworks & Libraries:** React, Node.js, Express
@@ -20,11 +20,11 @@ I'm on a journey to become a skilled coder, constantly learning and building pro
 ---
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 - **GitHub:** [@AmrendraTheCoder](https://github.com/AmrendraTheCoder)
 - **Location:** Uttar Pradesh, India
 
 ---
 
-_"I am trying to be a coder."_ 💻✨
+_"I am trying to be a coder."_ 
