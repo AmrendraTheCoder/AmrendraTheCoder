@@ -1,0 +1,58 @@
+<svg width="1000" height="240" viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fadeIn {
+      0% { opacity: 0; transform: translateY(10px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes shift {
+      0%, 100% { transform: translateX(0); }
+      50% { transform: translateX(60px); }
+    }
+    .name {
+      font: 600 44px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif;
+      fill: #e6edf3;
+      letter-spacing: -0.5px;
+      animation: fadeIn 0.9s ease-out both;
+    }
+    .role {
+      font: 400 19px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif;
+      fill: #8b949e;
+      letter-spacing: 3px;
+      animation: fadeIn 0.9s ease-out 0.25s both;
+    }
+    .meta {
+      font: 400 14px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif;
+      fill: #6e7681;
+      animation: fadeIn 0.9s ease-out 0.5s both;
+    }
+    .accentGroup { animation: shift 10s ease-in-out infinite; }
+  </style>
+
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1000" height="240" rx="10" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="999" height="239" rx="9.5" stroke="#21262d"/>
+
+  <!-- top accent line -->
+  <g class="accentGroup">
+    <rect x="-60" y="0" width="1120" height="3" fill="url(#accent)" opacity="0.9"/>
+  </g>
+
+  <!-- content -->
+  <rect x="84" y="86" width="4" height="36" rx="2" fill="url(#accent)" style="animation: fadeIn 0.9s ease-out both;"/>
+
+  <text class="name" x="104" y="116">Amrendra Vikram Singh</text>
+  <text class="role" x="106" y="152">FULL-STACK DEVELOPER</text>
+  <text class="meta" x="106" y="190">TypeScript &#8226; Python &#8226; Go &#8226; Solidity &#8212; Uttar Pradesh, India</text>
+
+  <!-- right-side detail: minimal code mark -->
+  <g style="animation: fadeIn 1s ease-out 0.6s both;">
+    <text x="920" y="130" text-anchor="end" style="font: 400 15px 'Fira Code', 'Cascadia Code', monospace; fill: #30363d; letter-spacing: 1px;">&#47;&#47; build &#8594; ship &#8594; iterate</text>
+  </g>
+</svg>
